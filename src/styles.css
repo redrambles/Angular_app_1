@@ -1,0 +1,23 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+.container{
+  max-width: 80%;
+  margin: 0 auto;
+}
+h1 {
+  color: #369;
+  font-weight: 600;
+  font-size: 250%;
+}
+h3 {
+  font-weight: 400;
+}
+/*.formy-form label {
+  margin: 2em 0;
+}*/
